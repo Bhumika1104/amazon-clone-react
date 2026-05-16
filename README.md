@@ -1,16 +1,46 @@
-# React + Vite
+# 🛒 Amazon Clone - React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive e-commerce frontend inspired by Amazon, built using React.js and Bootstrap 5.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
+- Responsive design (mobile-first)
+- Product listing UI
+- Search and filtering functionality
+- Reusable components (Navbar, Product Cards)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Tech Stack
+- React.js
+- Bootstrap 5
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Installation & Setup
+
+git clone https://github.com/your-username/amazon-clone-react.git  
+cd amazon-clone-react  
+npm install  
+npm start  
+
+---
+
+## 📸 Screenshots
+(Add your project screenshots here)
+
+---
+
+## 🔗 GitHub Repository
+https://github.com/Bhumika1104
+
+---
+
+## 👩‍💻 Author
+Bhumika Patil
+
+---
